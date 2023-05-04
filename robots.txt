@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tiger1996.github.io/alamblog/sitemap.xml

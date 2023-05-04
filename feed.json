@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "عالم مدون",
+    "description": "",
+    "home_page_url": "https://tiger1996.github.io/alamblog",
+    "feed_url": "https://tiger1996.github.io/alamblog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "مقالات متنوعه في جميع المجالات - عالم مدون"
+    },
+    "items": [
+    ]
+}
