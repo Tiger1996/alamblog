@@ -9,5 +9,17 @@
         "name": "مقالات متنوعه في جميع المجالات - عالم مدون"
     },
     "items": [
+        {
+            "id": "https://tiger1996.github.io/alamblog/bsm-llh-lrhmn-lrhym.html",
+            "url": "https://tiger1996.github.io/alamblog/bsm-llh-lrhmn-lrhym.html",
+            "title": "بسم الله الرحمن الرحيم",
+            "author": {
+                "name": "مقالات متنوعه في جميع المجالات - عالم مدون"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-04T02:05:00+02:00",
+            "date_modified": "2023-05-04T02:05:00+02:00"
+        }
     ]
 }
